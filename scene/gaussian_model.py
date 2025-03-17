@@ -64,7 +64,6 @@ class GaussianModel:
         self.setup_functions()
         self.is_gumbel = is_gumbel
         self.gumbel_net = None
-        self.mode = mode
         if is_gumbel:
             self.gumbel_net = Gumbel_Network()
         
