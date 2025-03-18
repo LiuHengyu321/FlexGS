@@ -24,7 +24,7 @@ conda create -n flexgs python=3.10
 conda activate flexgs
 
 pip install -r requirement.txt
-pip install -e submodules/depth-diff-gaussian-rasterization
+pip install -e submodules/compress-diff-gaussian-rasterization
 pip install -e submodules/simple-knn
 ```
 In our environment, we use pytorch=1.13.1+cu121.
