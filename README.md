@@ -50,7 +50,7 @@ python train.py \
 - `-s`: path to the source data
 - `-m`: output path
 - `--time_ratios`: the given elastic ratios for training
-- `--configs`: path to the cofig
+- `--configs`: path to the config
 - `--resolution`: resolution downscale of each image
 - `--gumbel_weight`: weight of the Gumbel loss 
 - `--select_interval`: interval for updating the Global Importance
@@ -59,14 +59,14 @@ python train.py \
 ## Render and Eval
 Render the image on the novel view on various elastic ratios.
 ```python
-python render_multi_v9.py \
+python render.py \
     --configs ./arguments/flex1_small1105.py \
     -m /path/to/ouput_dir \
     --time_ratios 0.15 0.10 0.05 0.01 \
 ```
 - `-m`: output path
 - `--time_ratios`: the given elastic ratios for rendering
-- `--configs`: path to the cofig
+- `--configs`: path to the config
 - `--skip_video`: skip rendering the video
 - `--skip_train`: skip rendering the train views
 - `--skip_test`: skip rendering the novel views
