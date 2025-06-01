@@ -42,7 +42,7 @@ python train.py \
     -s /path/to/dataset \
     -m /path/to/ouput_dir \
     --time_ratios 0.20 0.15 0.10 0.05 0.01 \
-    --configs ./arguments/flex1_small1105.py \
+    --configs ./arguments/flex.py \
     --resolution 4 \
     --gumbel_weight 1.0 \
     --select_interval 1000 
@@ -60,7 +60,7 @@ python train.py \
 Render the image on the novel view on various elastic ratios.
 ```python
 python render.py \
-    --configs ./arguments/flex1_small1105.py \
+    --configs ./arguments/flex.py \
     -m /path/to/ouput_dir \
     --time_ratios 0.15 0.10 0.05 0.01 \
 ```
