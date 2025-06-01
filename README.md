@@ -23,7 +23,7 @@ git submodule update --init --recursive
 conda create -n flexgs python=3.10
 conda activate flexgs
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 pip install -e submodules/compress-diff-gaussian-rasterization
 pip install -e submodules/simple-knn
 ```
