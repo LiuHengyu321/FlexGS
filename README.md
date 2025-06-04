@@ -1,9 +1,10 @@
 # FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting
 <p align="center">
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_FlexGS_Train_Once_Deploy_Everywhere_with_Many-in-One_Flexible_3D_Gaussian_CVPR_2025_paper.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Paper-blue" alt="Paper PDF"></a>
 <a href=""><img src="https://img.shields.io/badge/Arxiv-XXXX.XXXX-B31B1B.svg"></a>
 <a href=""><img src="https://img.shields.io/badge/Video-Youtube-d61c1c.svg"></a>
-<a href=""><img src="https://img.shields.io/badge/Project-Page-048C3D"></a>
-<!-- <a href="https://github.com/VITA-Group/LightGaussian"><img src="https://img.shields.io/github/stars/VITA-Group/LightGaussian"></a> -->
+<a href="https://flexgs.github.io/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
 </p>
 <p>
 
