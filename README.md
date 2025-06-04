@@ -90,7 +90,10 @@ We thank the authors for releasing their code!
 ## BibTeX
 If you find our work useful for your project, please consider citing the following paper.
 
-```
-
-
+```@inproceedings{wang2025vggt,
+  title={FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting},
+  author={Liu, Hengyu and Wang, Yuehao and Li, Chenxin and Cai, Ruisi and Wang, Kevin and Li, Wuyang and Molchanov, Pavlo and Wang, Peihao and Wang, Zhangyang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
+}
 ```
