@@ -9,7 +9,7 @@
 </p>
 <p>
 
-This repository contains the code release for CVPR 2025 paper: *"FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting"* by Hengyu Liu*, Yuehao Wang*, Chenxin Li*, Ruisi Cai‡, Kevin Wang, Wuyang Li, Pavlo Molchanov, Peihao Wang, Zhangyang Wang. (* denotes equal contribution, ‡ denotes project lead)
+This repository contains the code release for the CVPR 2025 paper: *"FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting"*, which first enables elastic inference for Gaussian Splatting and achieves deployment to meet model size budget.
 </p>
 
 
