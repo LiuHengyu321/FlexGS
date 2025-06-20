@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Paper-blue" alt="Paper PDF"></a>
 <a href="https://arxiv.org/abs/2506.04174"><img src="https://img.shields.io/badge/Arxiv-2506.04174-B31B1B.svg"></a>
 <a href="https://flexgs.github.io/"><img src="https://img.shields.io/badge/Project-Page-orange"></a>
+<a href="https://youtu.be/k6aDJUfxs4Q"><img src="https://img.shields.io/badge/Video-Youtube-k6aDJUfxs4Q.svg"></a>
 </p>
 <p>
 
